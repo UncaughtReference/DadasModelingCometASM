@@ -1,0 +1,7 @@
+.orga 0x097480 ;802DC480
+j 0x802dc560
+nop
+
+.orga 0x097164 ;802DC164
+j 0x802dc408
+nop

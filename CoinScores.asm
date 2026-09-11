@@ -1,0 +1,8 @@
+.orga 0x34D60
+nop
+
+.orga 0x34D6C
+nop
+
+.orga 0x34D48
+nop

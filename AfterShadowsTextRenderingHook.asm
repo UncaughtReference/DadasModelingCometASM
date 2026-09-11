@@ -1,0 +1,3 @@
+.orga 0x36A80
+jal 0x80404F3C
+li a0, 1

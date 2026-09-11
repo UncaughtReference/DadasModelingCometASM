@@ -1,0 +1,5 @@
+.orga 0x57E9C
+addiu r0, r0, 0x0000
+
+.orga 0x57EC0
+addiu r0, r0, 0x0000

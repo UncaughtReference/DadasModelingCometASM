@@ -1,0 +1,10 @@
+.orga 0x861c0
+addiu sp, sp, -0x18
+sw ra, 0x14(sp)
+
+jal 0x80409000
+li a0, 0
+
+lw ra, 0x14(sp)
+jr ra
+addiu sp, sp, 0x18

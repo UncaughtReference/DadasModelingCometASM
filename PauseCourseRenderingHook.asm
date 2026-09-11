@@ -1,0 +1,5 @@
+.orga 0x096768 ;802DB768
+jal 0x80404F3C
+li a0, 0
+j 0x802DBB14
+nop
