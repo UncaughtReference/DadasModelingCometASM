@@ -1,3 +1,5 @@
+.include "Labels.asm"
+
 .orga 0x80409000 - 0x7F200000
 addiu sp, sp, -0x18
 sw ra, 0x14(sp)
